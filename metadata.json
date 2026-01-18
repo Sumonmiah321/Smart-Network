@@ -1,0 +1,5 @@
+{
+  "name": "Smart-ISP Billing & Mikrotik Manager",
+  "description": "A comprehensive ISP billing software with Mikrotik integration, PPPoE/Hotspot management, and customizable voucher card designer.",
+  "requestFramePermissions": []
+}
